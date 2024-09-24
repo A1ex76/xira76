@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @xira76
+- 🌱 I’m currently learning c#
+- 💞️ I’m looking to collaborate on super cool project
